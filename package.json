@@ -1,0 +1,19 @@
+{
+  "name"          : "handwerk.js",
+  "description"   : "Run a specific number of tasks at the same time",
+  "keywords"      : ["tasks", "run", "asynchronous", "router", "server"],
+  "author"        : "Joachim Verbeke",
+  "dependencies"  : {
+    "lodash"  : ">=2.4.1"
+  },
+  "devDependencies" : {
+    "q"  : ">=1.0.1"
+  },
+  "main"          : "handwerk.js",
+  "version"       : "0.0.1",
+  "license"       : "free for all",
+  "repository": {
+    "type": "git",
+    "url": "git://intergalactic-overlords/handwerk.js.git"
+  }
+}
